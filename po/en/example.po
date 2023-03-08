@@ -1,0 +1,43 @@
+#: main.c:10
+msgid "1. Play"
+msgstr ""
+
+#: second.c:11
+msgid "1. Sound"
+msgstr ""
+
+#: second.c:12
+msgid "2. Graphics"
+msgstr ""
+
+#: main.c:11
+msgid "2. Options"
+msgstr ""
+
+#: main.c:12
+msgid "3. Quit"
+msgstr ""
+
+#: second.c:10
+msgid "Display options:"
+msgstr ""
+
+#: main.c:31
+msgid "Goodbye!"
+msgstr ""
+
+#: main.c:34
+msgid "Invalid choice."
+msgstr ""
+
+#: main.c:10
+msgid "Menu:"
+msgstr ""
+
+#: second.c:6
+msgid "Starting game..."
+msgstr ""
+
+#: main.c:16
+msgid "Welcome to My Game!"
+msgstr ""
